@@ -2,16 +2,22 @@
     margin: 0;
 }
 
+body {
+    padding: 5px;
+    margin: 10em;
+}
+
 #word {
     padding: 10px;
     margin: 5px;
+    border-radius: 5px;
 }
 
 .btn {
     background-color: transparent;
     border-radius: 6px;
     padding: 3px 7px;
-    
+
 }
 
 .btn:hover {
